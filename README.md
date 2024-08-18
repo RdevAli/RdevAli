@@ -7,7 +7,7 @@ Exploring MERN Stack Solutions
 I'm a dedicated web developer focused on building dynamic, full-stack applications using the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy crafting user-friendly and responsive front-end interfaces with React while leveraging Node.js and Express for robust back-end functionality. As I continue to explore and enhance my skills in full-stack development, I'm always excited to take on new challenges and collaborate on innovative projects. Let's connect and create something impactful!
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [alyyrehman.com](mailto:alyyrehman.com)
+* ✉️  You can contact me at [alyyrehman](mailto:alyyrehman@gmail.com)
 * 🚀  I'm currently working on [My Portfolio Website](http://rdevali.github.io/CodeWithAli/)
 * 🧠  I'm learning Currently learning MERN stack, React best practices, Tailwind CSS, and full-stack deployment strategies
 * 🤝  I'm open to collaborating on I'm excited to collaborate on React projects and open to MERN stack opportunities, along with exploring new and useful technologies.
