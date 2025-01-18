@@ -29,8 +29,21 @@ I'm a dedicated web developer focused on building dynamic, full-stack applicatio
 
 <b>My GitHub Stats</b>
 
-<a href="(https://github-readme-stats.vercel.app/api?username=RdevAli)](https://github.com/anuraghazra/github-readme-stats"/></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RdevAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RdevAli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RdevAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="http://www.github.com/RdevAli"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RdevAli&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RdevAli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="https://github.com/RdevAli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RdevAli&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RdevAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RdevAli&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
