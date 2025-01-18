@@ -29,7 +29,7 @@ I'm a dedicated web developer focused on building dynamic, full-stack applicatio
 
 <b>My GitHub Stats</b>
 
-<a href="(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/></a>
+<a href="(https://github-readme-stats.vercel.app/api?username=RdevAli)](https://github.com/anuraghazra/github-readme-stats"/></a>
 
 <a href="http://www.github.com/RdevAli"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RdevAli&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
