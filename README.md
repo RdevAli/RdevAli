@@ -120,6 +120,7 @@ Java Backend Dev | Exploring AI & blockchain | Open Source Learner
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Dev Meme](./meme.gif)
 
 <img src="https://media.tenor.com/FYUH8eMDsVQAAAAM/tnrdiscord-the-new-resistance.gif" alt="Funny Dev Meme" width="400px" />
 
