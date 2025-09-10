@@ -116,6 +116,17 @@ Java Backend Dev | Exploring AI & blockchain | Open Source Learner
 </a>
 </p>
 
+## 📜 Certifications  
+
+Here are some of my certifications:
+- [Introduction to Front-End Development](https://www.coursera.org/verify/QFB255CADLNX)  
+- [Introduction to Software Engineering](https://www.coursera.org/verify/XRSZN2POFMG6)
+- [Java Programming for Beginners](https://www.coursera.org/verify/3ELFFC2CBONW) 
+- [Object Oriented Programming in Java](https://www.coursera.org/verify/IEIA2K7SYTKS)    
+- [Python Data Structures](https://www.coursera.org/verify/5GDCD5B2DZNY)  
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/verify/LBPDBK4K22DS)  
+ 
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
